@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\juanl\\OneDrive\\Escritorio\\Core-Banco-Mainklksisi\\Core-Banco-Main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{594C4920-ED6D-4297-8BA8-5F091EF7722A}|Core_Banco\\Core_Banco.csproj|c:\\users\\juanl\\onedrive\\escritorio\\core-banco-mainklksisi\\core-banco-main\\core_banco\\models\\movimientodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594C4920-ED6D-4297-8BA8-5F091EF7722A}|Core_Banco\\Core_Banco.csproj|solutionrelative:core_banco\\models\\movimientodtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{594C4920-ED6D-4297-8BA8-5F091EF7722A}|Core_Banco\\Core_Banco.csproj|c:\\users\\juanl\\onedrive\\escritorio\\core-banco-mainklksisi\\core-banco-main\\core_banco\\models\\transacciondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{594C4920-ED6D-4297-8BA8-5F091EF7722A}|Core_Banco\\Core_Banco.csproj|solutionrelative:core_banco\\models\\transacciondtos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovimientoDtos.cs",
+              "DocumentMoniker": "C:\\Users\\juanl\\OneDrive\\Escritorio\\Core-Banco-Mainklksisi\\Core-Banco-Main\\Core_Banco\\Models\\MovimientoDtos.cs",
+              "RelativeDocumentMoniker": "Core_Banco\\Models\\MovimientoDtos.cs",
+              "ToolTip": "C:\\Users\\juanl\\OneDrive\\Escritorio\\Core-Banco-Mainklksisi\\Core-Banco-Main\\Core_Banco\\Models\\MovimientoDtos.cs",
+              "RelativeToolTip": "Core_Banco\\Models\\MovimientoDtos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T19:16:39.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransaccionDtos.cs",
+              "DocumentMoniker": "C:\\Users\\juanl\\OneDrive\\Escritorio\\Core-Banco-Mainklksisi\\Core-Banco-Main\\Core_Banco\\Models\\TransaccionDtos.cs",
+              "RelativeDocumentMoniker": "Core_Banco\\Models\\TransaccionDtos.cs",
+              "ToolTip": "C:\\Users\\juanl\\OneDrive\\Escritorio\\Core-Banco-Mainklksisi\\Core-Banco-Main\\Core_Banco\\Models\\TransaccionDtos.cs",
+              "RelativeToolTip": "Core_Banco\\Models\\TransaccionDtos.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAmwB8AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T12:55:11.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
